@@ -1,0 +1,19 @@
+.input_filter {
+  margin: 20px 0;
+}
+
+.table_column_user_id {
+  width: 10%;
+}
+
+.table_column_id {
+  width: 5%;
+}
+
+.table_column_title {
+  width: 35%;
+}
+
+.table_column_body {
+  width: 40%;
+}
